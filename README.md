@@ -1,4 +1,4 @@
 # Project-Demo
 This is my first Git Repository
 <br>
-Author : Waseem Abbas Kanhio
+Author : Waseem Abbas Kanhio (MUET)
